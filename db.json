@@ -1,9 +1,13 @@
 {
   "posts": [
     {
-      "exercises" : ["Bench Press","Incline Bench Press"],
-      "Bench Press": [80,85,85,85,90,90,100,95],
-      "Inclined Bench Press": [70,75,70,75,70,70,80,85]
+      "id": 2,
+      "title": "hello"
+    }, 
+    {
+      "exercises" : '["Bench Press","Incline Bench Press"]',
+      "Bench Press": '[80,85,85,85,90,90,100,95]',
+      "Inclined Bench Press": '[70,75,70,75,70,70,80,85]'
     }
   ],
   "profile": {
