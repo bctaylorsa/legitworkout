@@ -22,7 +22,7 @@
     {
       "id": 2,
       "body": ["BBLS Chest" ,"BBLS Back"],
-      "BBLS Chest" : [["Barbell Bench Press",80,6,20,8],[["Barbell Bench Press",80,6,20,8],[["Barbell Bench Press",80,6,20,8]],
+      "BBLS Chest" : [["Barbell Bench Press",80,6,20,8],["Barbell Bench Press",80,6,20,8],["Barbell Bench Press",80,6,20,8]],
       "BBLS Back": [["Barbell Deadlift",65,10,20,8],["Barbell Deadlift",105,6,20,8],["Barbell Deadlift",125,4,20,8]]
     },
     {
